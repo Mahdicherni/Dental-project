@@ -1,6 +1,6 @@
-# Tooth Segmentation Network (TSGNet)
 
-conda create --name tsgnet python=3.9
+
+conda create --name name python=3.9
 
 conda activate tsgnet 
 
@@ -14,8 +14,6 @@ conda activate tsgnet
 
 
 # 1.Prediction of a mesh :: Input : folder contains upper and lower .obj mesh ==> Output : 2 Jsons files  each upper and Lower labled 
-
-
 
 # 2.visualisation of the segmentation result upper/Lower  
 
